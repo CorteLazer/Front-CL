@@ -1,1 +1,23 @@
 #en este repo va estar alojado todo lo del front
+
+
+#Lenguajes
+
+JavaScript
+CSS
+
+#Herramientas usadas
+
+Node.js
+npm o yarn (para gestión de dependencias)
+Vite (para desarrollo y construcción)
+ESLint (para linting y análisis estático de código)
+React
+React DOM
+React Router DOM
+Bootstrap y React-Bootstrap (para estilos y componentes UI)
+Slick Carousel y React-Slick (para carruseles)
+tsparticles y react-tsparticles (para efectos de partículas)
+axios (para realizar solicitudes HTTP)
+uuid (para generar identificadores únicos)
+animate.css (para animaciones CSS)
